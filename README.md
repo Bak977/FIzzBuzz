@@ -1,5 +1,4 @@
 # FIzzBuzz
 Getting Started
 Hello All...
-
-Will Keep you updated with what I learn.Cheers!
+I will keep updating as I learn more.
